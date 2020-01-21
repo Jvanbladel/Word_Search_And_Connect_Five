@@ -1,0 +1,5 @@
+input.txt
+happy
+error
+hope
+exit
